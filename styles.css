@@ -1,5 +1,5 @@
 body {
-    font-family: "Times New Roman", Georgia, Serif !important;
+    font-family: 'Georgia', serif;
 }
 .hover-box {
     position: relative;
@@ -25,3 +25,17 @@ body {
 .hover-box:hover {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
+.hero-section {
+    position: relative;
+  }
+  
+  .hero-text {
+    position: absolute;
+    bottom: 20px;
+    left: 30px;
+    font-size: 1.5rem;
+    color: #333;
+    letter-spacing: 1px;
+  }
+
+  
