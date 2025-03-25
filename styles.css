@@ -1,5 +1,5 @@
 body {
-    font-family: "Times New Roman", Georgia, Serif !important;
+    font-family: 'Georgia', serif;
 }
 .hover-box {
     position: relative;
@@ -22,6 +22,27 @@ body {
     background-color: #a9a5a5; 
 }
 
+<<<<<<< HEAD
 .card-text {
     padding: 12px 24px !important;
 }
+=======
+/* Optional: Add a subtle box-shadow effect on hover */
+.hover-box:hover {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.hero-section {
+    position: relative;
+  }
+  
+  .hero-text {
+    position: absolute;
+    bottom: 20px;
+    left: 30px;
+    font-size: 1.5rem;
+    color: #333;
+    letter-spacing: 1px;
+  }
+
+  
+>>>>>>> 9159a54ebaf4c0925c77932749627698d7457a86
